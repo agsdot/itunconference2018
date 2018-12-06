@@ -1,0 +1,26 @@
+#+TITLE: Emacs Init
+#+AUTHOR: Jonathan Lai
+
+* Emacs Init as an Org file
+
+** My Emacs setup
+Lets make this organized and documented org-mode style
+
+** init-basics
+Here lets do the preliminary setup and put in some good defaults for emacs, including setting some system wide variables.
+
+** init-aesthetics
+Lets make emacs look and behave better.
+
+#+BEGIN_SRC emacs-lisp
+(line-number-mode t)
+(column-number-mode t)
+;; http://ergoemacs.org/emacs/elisp_determine_OS_version.html
+(if (version< emacs-version "26.1")
+    (global-linum-mode t)
+  ;; https://github.crookster.org/macOS-Emacs-26-display-line-numbers-and-me/
+  (global-display-line-numbers-mode 1))
+
+
+#+END_SRC
+
