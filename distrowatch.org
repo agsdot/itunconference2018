@@ -1,0 +1,82 @@
+#+TITLE: Distrowatch.com (FOSS ESPN for those in tech)
+#+AUTHOR: Jonathan Lai
+
+* Distrowatch
+
+  Distrowatch.com (FOSS ESPN for those in tech)
+  Jonathan Lai (jonathanlai@staford.edu)
+  Graduate School of Education Developer
+
+** Contact Information
+   Jonathan Lai
+   jonathanlai@stanford.edu
+[[https://www.google.com/maps/place/Center+for+Education+Research+at+Stanford+(CERAS)/@37.4245262,-122.1690201,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbad6c545d035:0x21b1c44ea2bbcbb5!8m2!3d37.424522!4d-122.1668314][   CERAS 120]]
+[[https://gse-it.stanford.edu/about/team][   Office of Innovation and Technology]]
+[[github.com/agsdot][   github.com/agdsot]] | Slashdot plus an Aggie => Agsdot
+
+   This presentation is on github at:
+   Please do provide Pull Requests for things such as typo's and grammar errors. And please do provide content pull requests.
+
+** Table of Contents
+   Here lets do the preliminary setup and put in some good defaults for emacs, including setting some system wide variables.
+     - History and Utility of the Site
+     - Sharing of favorite Distro's: Table and Group up together
+     - Sharing Contact Information
+     - Concluding Thoughts
+
+** History and Background
+   Ladislov Botner (Czech Citizen living in Taiwan) at least prior to 2003.
+   https://en.wikipedia.org/wiki/DistroWatch
+   Linux and BSD distributions
+     - ranked in terms of page views. 100's and 100's of distributions. In development, the history, default installed packages and no longer developed OS's.
+   BSD distribution - including OpenSolaris, SmartOS
+   Open source Packages
+     - e.g. wireshark, nagios, xen, docker, vagrant, emacs, vim, neovim, llvm, and more
+   Webzines
+   MP3 Podcasts - super useful for learning
+
+** Sharing of favorite Distro's: Table and Group up together
+   Sharing of Favorite Linux and BSD Distributions
+
+   Red Hat, Debian, Source Based (Gentoo, Archlinux, Slackware)
+   Contact Information
+
+   Three or Four Table Groups
+     - RPM - redhat, centos, [[https://www.scientificlinux.org/][Scientific Linux]], aws linux
+     - DEB - debian, ubuntu, mint linux, kali, knoppix
+     - TARGZ - archlinux, pardus, manjaro, gentoo
+     - BSD Source - SmartOS, FreeBSD, OpenBSD, NetBSD, OpenSolaris
+
+     - Summarize Thoughts later on Zoom
+     - Awesomest ports and biggest areas of improvement
+
+** Sharing Contact Information
+   Contact Information
+
+   1) Name (First Last)
+   2) Department (Building on the Main Campus or Remote Campus)
+   3) Github Username
+
+   One person from each group share their contact info for the Zoom Video
+
+** Concluding Thoughts
+
+   Distrowatch, for me, is all that is good beautiful and wonderful in the Information Era (Agricultural -> Mechanized / Industrial ->Information)
+
+   Anyone can learn and do tech. Education excites you and me, whether we're in Redwood City, the main campus, SLAC, or Stanford Health.
+
+   Economic uplift that excites all of us I know. Providing quality job skills
+     - Inkscape...similar to Illustrator and 2D vector art
+     - Blender...similar to Maya and 3D modeling
+     - Audacity ...similar to [[https://en.wikipedia.org/wiki/Pro_Tools][Avid Pro Tools]]
+     - Krita...similar to Photoshop
+     - Gimp...similar to Photoshop
+     - Asterisk...similar to Avaya and Nortel VOIP phone systems
+       - The basis of the [[http://twilio.com/][Twilio]] API
+     - BSD...similar to macOS, but a lot more egalitarian and with less vendor lock-in
+       - BSD and a Carnegie Mellon University Project were the basis of macOS
+     - Debian...similar to Windows, but a lot more stable and a lot higher quality code
+
+   And I know that we need more quality people of high caliber skills, scrappy and with a lots of chutzpah, that can do a project on a scarce budget. This is Stanford, we do not have the budget of IBM, Nvidia, or Intel.
+
+   Impart these skills to others. Go Forth and share the wonders of Distrowatch.
