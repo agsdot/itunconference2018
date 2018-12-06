@@ -68,6 +68,11 @@
    2) IRT, Porter Drive
    3) ____ Github Username
 
+   Source / Archlinux
+   1) Simon Escobedo (dosmo@stanford.edu)
+   2) ESF Building (Environmental Health and Safety Facility)
+   3) dosmoc Github Username
+
 ** Concluding Thoughts
 
    Distrowatch, for me, is all that is good beautiful and wonderful in the Information Era (Agricultural -> Mechanized / Industrial ->Information)
