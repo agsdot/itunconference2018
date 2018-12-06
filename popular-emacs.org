@@ -1,0 +1,102 @@
+#+TITLE: Popular Emacs 
+#+AUTHOR: Jonathan Lai
+
+* Popular Emacs
+- [[https://github.com/agsdot/itunconference2018/blob/master/popular-emacs.org][Popular Emacs]]
+- Jonathan Lai (jonathanlai@stanford.edu)
+- [[https://ed.stanford.edu/][Graduate School of Education]] Developer
+
+** Contact Information
+- Jonathan Lai
+- jonathanlai@stanford.edu
+- [[https://www.google.com/maps/place/Center+for+Education+Research+at+Stanford+(CERAS)/@37.4245262,-122.1690201,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbad6c545d035:0x21b1c44ea2bbcbb5!8m2!3d37.424522!4d-122.1668314][CERAS 120]] | [[https://gse-it.stanford.edu/about/team][Office of Innovation and Technology]]
+- [[https://github.com/agsdot][github.com/agdsot]] | Slashdot plus an Aggie => Agsdot
+
+   This presentation is on github at: https://github.com/agsdot/itunconference2018/blob/master/popular-emacs.org
+
+   Please do provide Pull Requests for things such as typo's and grammar errors. And please do provide content pull requests.
+
+** Table of Contents
+   - History and Background
+   - Website Resources
+   - Small Demonstration
+   - Favorite Emacs Packages
+   - Sharing Contact Information
+   - Concluding Thoughts
+
+** History and Background
+   1970's MIT Emacs and Berkeley Vi
+     - Derivatives: Emacs ... to the present
+     - Derivatives: Vi ... Vim ... neovim ... to the present
+     - advantages of emacs and vim
+     - disadvantages
+     - won't go into the ideological wars on Emacs vs Vim
+       - like France vs Germany, or USC vs UCLA
+   Practicalities
+     - keybindings
+     - plugins
+   Alternatives
+     - netbeans, eclipse, sublime, atom, vscode,
+     - kate, gedit, textedit, notepad, notepad++,
+     - vim, neovim, [[https://github.com/zyedidia/micro][micro]], nano
+
+** Website Resources
+   https://www.gnu.org/software/emacs/
+   https://github.com/emacs-tw/awesome-emacs
+   https://www.reddit.com/r/emacs
+
+   http://melpa.org/
+   https://github.com/melpa/melpa
+
+** Small Demonstration
+   Emacs Magit - https://github.com/magit/magit
+   Emacs Org Mode - https://orgmode.org/
+
+** Favorite Emacs Packages
+   Sharing of Favorite Emacs Packages and Plugins
+
+   Contact Information
+
+   Three or Four Table Groups
+     - Utilities - Magit (git), Ivy, Helm, Programming modes
+     - Fun Stuffs - Music, Messenger, Games, Screensavers, Whimsical plugins
+     - Org Mode - writing, screenwriting, fountain mode
+     - Beginner Group - initial install and setup, spacemacs, doomemacs, purcell emacs
+
+     - Summarize Thoughts later on Zoom
+     - Awesomest parts and biggest wishes for areas of improvement
+
+** Sharing Contact Information
+   Contact Information
+
+   Firstname Lastname
+   1) email address
+   2) Department (Building on the Main Campus or Remote Campus)
+   3) Github Username
+   4) Emacs Configs Online
+
+   One person from each group share their contact info for the Zoom Video
+
+   Jonathan Lai
+   1) jonathanlai@stanford.edu
+   2) Graduate School of Education IT
+   3) @agsdot
+   4) https://github.com/agsdot/.emacs.d
+
+   Firstname Lastname
+   1) email@emailaddress.com
+   2) Stanford Department
+   3) @someGithubUsernameHandle
+   4) https://github.com/someGithubUsernameHandle/dotemacsd
+
+** Concluding Thoughts
+
+   Emacs has a friendly community.
+
+   Difference between Emacs and Vim. The community wants to build any and everything.
+
+   Contribute to other emacs packages, including documentation of awesome emacs.
+
+   It's a great job skill and you can do so much with Emacs. And I know that at Stanford, we need more quality people of high caliber skills, scrappy and with a lots of chutzpah, that can do a project on a scarce budget. This is Stanford, we do not have the budget of IBM, Nvidia, or Intel.
+
+   Impart these skills to others. Go Forth and share the wonders of Emacs. Above, all enjoy using Emacs. The community, that more than anything, makes Emacs a great ecosystem and place to develop, learn and grow.
