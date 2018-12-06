@@ -1,0 +1,16 @@
+#+TITLE: Stanford IT Unconference
+#+AUTHOR: Jonathan Lai
+
+* [[https://github.com/agsdot/itunconference2018][github.com/agsdot/itunconference2018]]
+- Website: https://itunconference.stanford.edu/sessions
+- Documentation: https://github.com/agsdot/itunconference2018/
+- Contact: jonathanlai@stanford.edu
+
+** Talks
+[[https://github.com/agsdot/itunconference2018/blob/master/distrowatch.org][Distrowatch.com (FOSS ESPN for those in tech)]]
+
+[[https://github.com/agsdot/itunconference2018/blob/master/popular-emacs.org][Popular Emacs]]
+
+** Notes
+
+More org-mode files
