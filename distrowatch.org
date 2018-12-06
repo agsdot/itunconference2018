@@ -1,20 +1,19 @@
-#+TITLE: Distrowatch.com (FOSS ESPN for those in tech)
+#+TITLE: [[https://distrowatch.com/][Distrowatch.com]] ([[https://en.wikipedia.org/wiki/Free_and_open-source_software][FOSS]] ESPN for those in tech)
 #+AUTHOR: Jonathan Lai
 
 * Distrowatch
-
-  Distrowatch.com (FOSS ESPN for those in tech)
-  Jonathan Lai (jonathanlai@staford.edu)
-  Graduate School of Education Developer
+- [[https://distrowatch.com/][Distrowatch.com]] (FOSS ESPN for those in tech)
+- Jonathan Lai (jonathanlai@stanford.edu)
+- [[https://ed.stanford.edu/][Graduate School of Education]] Developer
 
 ** Contact Information
-   Jonathan Lai
-   jonathanlai@stanford.edu
-[[https://www.google.com/maps/place/Center+for+Education+Research+at+Stanford+(CERAS)/@37.4245262,-122.1690201,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbad6c545d035:0x21b1c44ea2bbcbb5!8m2!3d37.424522!4d-122.1668314][   CERAS 120]]
-[[https://gse-it.stanford.edu/about/team][   Office of Innovation and Technology]]
-[[github.com/agsdot][   github.com/agdsot]] | Slashdot plus an Aggie => Agsdot
+- Jonathan Lai
+- jonathanlai@stanford.edu
+- [[https://www.google.com/maps/place/Center+for+Education+Research+at+Stanford+(CERAS)/@37.4245262,-122.1690201,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbad6c545d035:0x21b1c44ea2bbcbb5!8m2!3d37.424522!4d-122.1668314][CERAS 120]] | [[https://gse-it.stanford.edu/about/team][Office of Innovation and Technology]]
+- [[https://github.com/agsdot][github.com/agdsot]] | Slashdot plus an Aggie => Agsdot
 
-   This presentation is on github at:
+   This presentation is on github at: https://github.com/agsdot/itunconference2018/blob/master/distrowatch.org 
+
    Please do provide Pull Requests for things such as typo's and grammar errors. And please do provide content pull requests.
 
 ** Table of Contents
@@ -29,9 +28,9 @@
    https://en.wikipedia.org/wiki/DistroWatch
    Linux and BSD distributions
      - ranked in terms of page views. 100's and 100's of distributions. In development, the history, default installed packages and no longer developed OS's.
-   BSD distribution - including OpenSolaris, SmartOS
+   BSD distribution - including OpenSolaris, [[https://www.joyent.com/smartos][SmartOS]], [[https://www.openbsd.org/][OpenBSD]]
    Open source Packages
-     - e.g. wireshark, nagios, xen, docker, vagrant, emacs, vim, neovim, llvm, and more
+     - e.g. [[https://www.wireshark.org/][wireshark]], nagios, xen, docker, [[https://kubernetes.io/][kubernetesk]], vagrant, [[https://www.gnu.org/software/emacs/][emacs]], vim, [[https://neovim.io/][neovim]], llvm, and more
    Webzines
    MP3 Podcasts - super useful for learning
 
@@ -42,10 +41,10 @@
    Contact Information
 
    Three or Four Table Groups
-     - RPM - redhat, centos, [[https://www.scientificlinux.org/][Scientific Linux]], aws linux
-     - DEB - debian, ubuntu, mint linux, kali, knoppix
-     - TARGZ - archlinux, pardus, manjaro, gentoo
-     - BSD Source - SmartOS, FreeBSD, OpenBSD, NetBSD, OpenSolaris
+     - RPM - redhat, centos, [[https://www.scientificlinux.org/][Scientific Linux]], [[https://aws.amazon.com/amazon-linux-ami/][aws linux]]
+     - DEB - debian, ubuntu, [[https://linuxmint.com/][mint linux]], kali, knoppix
+     - TARGZ - [[https://www.archlinux.org/][archlinux]], pardus, manjaro, [[https://www.gentoo.org/][gentoo]]
+     - BSD Source - SmartOS, [[https://www.freebsd.org/][FreeBSD]], OpenBSD, NetBSD, OpenSolaris
 
      - Summarize Thoughts later on Zoom
      - Awesomest ports and biggest areas of improvement
@@ -66,12 +65,14 @@
    Anyone can learn and do tech. Education excites you and me, whether we're in Redwood City, the main campus, SLAC, or Stanford Health.
 
    Economic uplift that excites all of us I know. Providing quality job skills
+     - [[https://git-scm.com/][Git]]...similar to [[https://subversion.apache.org/][Subversion]]
+     - [[https://www.mercurial-scm.org/][Mercurial]]...similar to Subversion
      - Inkscape...similar to Illustrator and 2D vector art
-     - Blender...similar to Maya and 3D modeling
-     - Audacity ...similar to [[https://en.wikipedia.org/wiki/Pro_Tools][Avid Pro Tools]]
-     - Krita...similar to Photoshop
+     - [[https://www.blender.org/][Blender]]...similar to Maya and 3D modeling
+     - [[https://www.audacityteam.org/][Audacity]] ...similar to [[https://en.wikipedia.org/wiki/Pro_Tools][Avid Pro Tools]]
+     - [[https://krita.org/en/][Krita]]...similar to Photoshop
      - Gimp...similar to Photoshop
-     - Asterisk...similar to Avaya and Nortel VOIP phone systems
+     - [[https://www.asterisk.org/][Asterisk]]...similar to Avaya and Nortel VOIP phone systems
        - The basis of the [[http://twilio.com/][Twilio]] API
      - BSD...similar to macOS, but a lot more egalitarian and with less vendor lock-in
        - BSD and a Carnegie Mellon University Project were the basis of macOS
