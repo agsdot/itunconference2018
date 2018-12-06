@@ -18,7 +18,7 @@
 
 ** Table of Contents
    Here lets do the preliminary setup and put in some good defaults for emacs, including setting some system wide variables.
-     - History and Utility of the Site
+     - History and Background of the Site
      - Sharing of favorite Distro's: Table and Group up together
      - Sharing Contact Information
      - Concluding Thoughts
@@ -57,6 +57,16 @@
    3) Github Username
 
    One person from each group share their contact info for the Zoom Video
+
+   Debian
+   1) Eric Alemany (ealemany@stanford.edu)
+   2) School of Medicine
+   3) ____ Github Username
+
+   Debian / Ubuntu
+   1) Conrad Holmberg (conradh1@stanford.edu)
+   2) IRT, Porter Drive
+   3) ____ Github Username
 
 ** Concluding Thoughts
 
